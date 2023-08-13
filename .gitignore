@@ -1,0 +1,9 @@
+node_modules/
+
+src/index.ts
+
+dist/index.js
+
+package.json
+
+package-lock.json
